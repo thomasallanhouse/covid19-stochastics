@@ -1,0 +1,12 @@
+Running the Contact Tracing notebooks requires:
+
+jupyter
+matplotlib
+networkx
+numpy
+patsy
+pydot
+pygraphviz
+seaborn
+sklearn
+statsmodels
